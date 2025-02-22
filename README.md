@@ -1,4 +1,6 @@
-Replay can-bus messages from asc log file with format (with Arduino and can-bus shield (https://www.aliexpress.com/item/32998183983.html)):
+Replay ASC canbus log with Arduino and [can-bus shield](https://www.aliexpress.com/item/32998183983.html)
+
+ASC log file with format:
 ```logfile
    0.00503 1  545             Rx   d 8 14 00 3F F0 AB BF CA C1  Length = 231910 BitCount = 120 ID = 1349
    0.00620 1  379             Rx   d 8 CA 0A 38 2F 2D 3D 7D 5A  Length = 221910 BitCount = 115 ID = 889
@@ -14,3 +16,6 @@ Replay can-bus messages from asc log file with format (with Arduino and can-bus 
    0.01337 1  788             Rx   d 8 72 1E 00 00 20 9D B4 06  Length = 225910 BitCount = 117 ID = 1928
    0.01408 1  139             Rx   d 1 00  Length = 107914 BitCount = 58 ID = 313
 ```
+
+![img1](foto/IMG_20250222_142136.jpg)
+![img2](foto/IMG_20250222_142152.jpg)
